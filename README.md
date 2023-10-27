@@ -1,6 +1,8 @@
 ## Airbnb_Price_Prediction 
 
-### Project Overview
+![image](https://github.com/Terry-Migwi/Airbnb_Price_Prediction/assets/65303250/4ada2a71-cf6c-4f54-9c22-80767d2d24c5)
+
+### Project Overview 
 
 This study aims to predict the prices of Airbnb listings in the City of Paris while harnessing the predictive capabilities of statistical and machine learning techniques. This study uses a `Multiple Linear Regression` model to explore any linear relationships between the variables. Then it introduces more complex nonlinear techniques such as `Support Vector Regression (SVR)` and `Multilayer Perceptron(MLP)` to learn the nonlinear patterns in the dataset. Further, more robust ensemble methods, namely `Random Forests`, `Gradient Boosting Machines`, and `eXtreme Gradient Boosting` are applied to learn complex patterns in the dataset for Airbnb price prediction. Moreover, the study delves into feature engineering and cross-validation to improve the model performance and also performs feature importance  using the best-performing models to unveil the importance of variables influencing Airbnb prices.
 

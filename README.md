@@ -1,6 +1,6 @@
 ## Airbnb_Price_Prediction 
 
-![image](https://github.com/Terry-Migwi/Airbnb_Price_Prediction/assets/65303250/4ada2a71-cf6c-4f54-9c22-80767d2d24c5)
+<img src = "https://github.com/Terry-Migwi/Airbnb_Price_Prediction/assets/65303250/fb0f4155-fc22-4af6-9c48-0228345ba48b" width = "350" height = "250"> 
 
 ### Project Overview 
 
